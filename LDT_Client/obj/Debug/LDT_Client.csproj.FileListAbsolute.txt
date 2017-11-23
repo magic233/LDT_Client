@@ -1,0 +1,9 @@
+C:\magic233\LDT_Client\LDT_Client\bin\Debug\LDT_Client.exe.config
+C:\magic233\LDT_Client\LDT_Client\bin\Debug\LDT_Client.exe
+C:\magic233\LDT_Client\LDT_Client\bin\Debug\LDT_Client.pdb
+C:\magic233\LDT_Client\LDT_Client\obj\Debug\LDT_Client.csprojResolveAssemblyReference.cache
+C:\magic233\LDT_Client\LDT_Client\obj\Debug\LDT_Client.Form1.resources
+C:\magic233\LDT_Client\LDT_Client\obj\Debug\LDT_Client.Properties.Resources.resources
+C:\magic233\LDT_Client\LDT_Client\obj\Debug\LDT_Client.csproj.GenerateResource.Cache
+C:\magic233\LDT_Client\LDT_Client\obj\Debug\LDT_Client.exe
+C:\magic233\LDT_Client\LDT_Client\obj\Debug\LDT_Client.pdb
